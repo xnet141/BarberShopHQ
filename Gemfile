@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "sinatra"
 gem "sqlite3", "~> 1.6.2"
+gem "rake"
 
 gem "activerecord"
 gem "sinatra-activerecord"
