@@ -1,4 +1,5 @@
 #encoding: utf-8
+#test
 require 'rubygems'
 require 'sinatra'
 require 'sinatra/reloader'
